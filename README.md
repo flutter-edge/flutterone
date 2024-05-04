@@ -1,4 +1,4 @@
-# Hello DUET Flutter
+# Hello DUET Flutter Second
 
 A new Flutter project.
 
